@@ -131,3 +131,6 @@ android/app/release/
 
 # Ignore fvm sdks
 .fvm/flutter_sdk
+
+# Ignore .env file
+.env

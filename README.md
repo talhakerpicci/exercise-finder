@@ -82,13 +82,17 @@ Ensure to enable touch feedback in the Android settings for the best user experi
 
 ## Screenshots
 
-![Screenshot 1](screenshots/ss1.png)
-![Screenshot 2](screenshots/ss2.png)
-![Screenshot 3](screenshots/ss3.png)
-![Screenshot 4](screenshots/ss4.png)
+<p float="left">
+  <img src="screenshots/ss1.png" width="200" />
+  <img src="screenshots/ss2.png" width="200" /> 
+  <img src="screenshots/ss3.png" width="200" />
+  <img src="screenshots/ss4.png" width="200" />
+</p>
 
 ## Demo Video
 
 For a full app walkthrough, check out the demo video below:
 
-[![Demo Video](screenshots/ss1.png)](screenshots/video.mp4)
+<a href="screenshots/video.mp4">
+  <img src="screenshots/ss1.png" width="200" alt="Demo Video"/>
+</a>

@@ -51,7 +51,11 @@ class HomeViewModel extends ChangeNotifier {
       notifyListeners();
       if (_debounce?.isActive ?? false) _debounce!.cancel();
       _debounce = Timer(const Duration(milliseconds: 300), () {
-        searchExercises(name: _query);
+        searchExercises(
+          name: _query,
+          muscle: selectedMuscleFilter,
+          type: selectedExerciseFilter,
+        );
       });
     }
   }

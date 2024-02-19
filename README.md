@@ -51,7 +51,7 @@ To get a local copy up and running, follow these simple steps:
 
 ```sh
 git clone https://github.com/talhakerpicci/exercise-finder
-cd exercise_finder
+cd exercise-finder
 ```
 
 2. **Copy the .env.example file to a new file named .env and enter your api key.**
